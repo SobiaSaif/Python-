@@ -1,2 +1,1 @@
-# Python-
-Analytical Portfolio
+# Python-project
